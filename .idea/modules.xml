@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2018/2018.iml" filepath="$PROJECT_DIR$/2018/2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APCS/APCS.iml" filepath="$PROJECT_DIR$/APCS/APCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APCS Semester 2/APCS Semester 2.iml" filepath="$PROJECT_DIR$/APCS Semester 2/APCS Semester 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Color Wheel/Color Wheel.iml" filepath="$PROJECT_DIR$/Color Wheel/Color Wheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawingPanel/DrawingPanel.iml" filepath="$PROJECT_DIR$/DrawingPanel/DrawingPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyCtf/EasyCtf.iml" filepath="$PROJECT_DIR$/EasyCtf/EasyCtf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Language Maker/Language Maker.iml" filepath="$PROJECT_DIR$/Language Maker/Language Maker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PEEB 1/PEEB 1.iml" filepath="$PROJECT_DIR$/PEEB 1/PEEB 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USACO/USACO.iml" filepath="$PROJECT_DIR$/USACO/USACO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+    </modules>
+  </component>
+</project>

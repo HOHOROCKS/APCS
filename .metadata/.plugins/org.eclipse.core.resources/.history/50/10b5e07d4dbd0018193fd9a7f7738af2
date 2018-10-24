@@ -1,0 +1,18 @@
+
+public class Joshua{
+	public static void main(String[] args){
+		for (int i = 0; i < 4; i++){
+			for (int space = i; space > 0; space -= 2){
+				System.out.print(" ");
+			}
+			System.out.print("<>");
+			if (i != 0){	
+				for(int dot = i; dot < 2 * i + 2; dot++){
+					System.out.print(".");
+				}
+			System.out.println("<>");
+			}
+		}
+	}
+}
+

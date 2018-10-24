@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Point.java&apos; to &apos;Bronze.java&apos;&#x0D;&#x0A;- Original project: &apos;APCS&apos;&#x0D;&#x0A;- Destination element: &apos;Bronze.java&apos;&#x0D;&#x0A;- Original element: &apos;Point.java&apos;" description="Copy compilation unit" destination="=USACO/src&lt;{Bronze.java" element1="/src&lt;{Point.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1513470191158" units="1" version="1.0"/>
+</session>

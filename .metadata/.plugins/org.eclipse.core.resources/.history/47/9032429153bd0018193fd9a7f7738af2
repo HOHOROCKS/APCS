@@ -1,0 +1,39 @@
+import java.*;
+import java.util.Scanner;
+
+public class Joshua{
+	public static void main(String[] args){
+		Scanner console = new Scanner(System.in);
+		int half_height = console.nextInt();
+		for (int i = 0; i < half_height; i++){
+			for (int space = half_height; space > 2 * i - 2; space--){
+				System.out.print(" ");
+			}
+			
+			System.out.print("<>");
+			
+			if (i != 0){
+				for(int dot = 1; dot <= half_height * i; dot++){
+					System.out.print(".");	
+				}
+			}
+			System.out.println("<>");
+		}
+		
+		
+		for (int i = half_height; i > 0; i--){
+			for (int space = half_height; space > 2 * (half_height - i) ; space--){
+				System.out.print(" ");
+			}
+			
+			System.out.print("<>");
+			
+			for(int dot = 0; dot <= (i - 1) * 4; dot++){
+				System.out.print(".");
+			}
+			
+			System.out.println("<>");
+		}
+		
+	}
+}
